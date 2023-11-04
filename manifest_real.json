@@ -19,6 +19,14 @@
 			"language": "zh-hant",
 			"cmd": "{python} -m pip install llpy-helper-lib -U",
 			"tip": "使用pip安装"
+		},
+		{
+			"type": "dts",
+			"name": "JS/TS型宣言日本語版",
+			"version": "1.0.0",
+			"index": ".*/src/index.d.ts",
+			"language": "ja-jp",
+			"download_url": "https://github.com/kaito02020424/HelperLib/archive/refs/heads/master.zip"
 		}
 	]
 }
