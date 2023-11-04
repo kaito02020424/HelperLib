@@ -7,6 +7,7 @@
 
 ## 🔧 使用
 VSCode想定。  
-1. LiteLoaderSE-Aidsの源地址の選択肢において、1番下を選び、空欄に`https://github.com/kaito02020424/HelperLib/raw/master/`を入力して、左側のボタンを押す。  
-2. 上に出てくる選択肢から、日本語化パックを選択。  
+1. LiteLoaderSE-Aidsの源地址の選択肢において、1番下を選び、空欄に`https://github.com/kaito02020424/HelperLib/raw/master/`を入力して、左下のボタンを押す。
+2. 場合によっては、フォルダを選べと言われるため、`C:\vscode`などのフォルダを作成or選択し、決定する。  
+3. 上に出てくる選択肢から、日本語化パックを選択。  
 コード中にて、`ll`等を入力すると、自動的に型宣言ファイルが取り込まれます。
