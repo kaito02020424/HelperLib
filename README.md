@@ -6,14 +6,7 @@
 [LLseHelper](https://github.com/LiteLScript-Dev/HelperLib)
 
 ## 🔧 使用
-VSCode想定。
-LiteLoaderSE-Aidsの源地址の選択肢において、1番下を選び、空欄に`https://github.com/kaito02020424/HelperLib/raw/master/`を入力して、左側のボタンを押す。
-上に出てくる選択肢から、日本語化パックを選択。
+VSCode想定。  
+1. LiteLoaderSE-Aidsの源地址の選択肢において、1番下を選び、空欄に`https://github.com/kaito02020424/HelperLib/raw/master/`を入力して、左側のボタンを押す。  
+2. 上に出てくる選択肢から、日本語化パックを選択。  
 コード中にて、`ll`等を入力すると、自動的に型宣言ファイルが取り込まれます。
-
-## 🏆 貢献
-
-- 感谢[HuoHuas001](https://github.com/HuoHuas001)的主要从文档转换
-- 感谢[moxisuki](https://github.com/moxisuki)的帮助
-- 感谢[lgc2333](https://github.com/lgc2333)的贡献
-- 感谢[harry-xi](https://github.com/harry-xi)的贡献
